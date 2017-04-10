@@ -858,6 +858,16 @@ border-color:rgb(34, 34, 34);
 border-style:none;
 }
 
+.tp-caption.greenbox60 {
+line-height:60px;
+text-decoration:none;
+background-color:rgb(134, 181, 103);
+padding:0px 28px;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
 .tp-caption.blue_heavy_60 {
 font-size:60px;
 line-height:60px;
