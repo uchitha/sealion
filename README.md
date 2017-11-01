@@ -1,2 +1,2 @@
-# sealion
+# samuel
 Website for Sea Lion
